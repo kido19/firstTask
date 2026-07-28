@@ -1,4 +1,4 @@
-## This simple javascript scripts prints 
+### This simple javascript scripts prints 
 
 -my name 
 -today's date 
