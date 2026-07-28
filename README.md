@@ -1,8 +1,8 @@
 ### This simple javascript scripts prints 
 
--my name 
--today's date 
--the node version 
+-my name.
+-today's date. 
+-the node version. 
 
 ## Requirements
 -Node.js
