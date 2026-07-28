@@ -11,7 +11,8 @@
 ## How to Run
 Open a terminal in the project folder.
 Run the following command:
-# node new.js
+
+-->node new.js
 
 ## Example Output
 -Name: kidst kinfe
