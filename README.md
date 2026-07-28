@@ -5,8 +5,8 @@
 - The Node.js version
 
 ## Requirements
--Node.js
--Git
+- Node.js
+- Git
 
 ## How to Run
 Open a terminal in the project folder.
